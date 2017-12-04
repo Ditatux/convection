@@ -1,0 +1,13 @@
+
+  Low
+Pressure ~~~~~~~~~~~~~~~~~~~~> High pressure
+    ^                              |
+    |                              |
+    |                              |
+    |                              |
+    |                              |
+    |                              |
+    |                              |
+    |                              \/
+ Rising                         Sinking
+ Warm air <~~~~~~~~~~~~~~~~~~~~ Cold air
