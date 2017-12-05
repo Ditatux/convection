@@ -1,5 +1,35 @@
-.content {
-    border-style: solid;
-    border-width: 5px;
-    border-color: c3c3c3;
+body{
+  font-family: arial;
+  font-size:10px;
+  background:#cecece;
+}
+
+li{
+  list-style: none;
+  line-height: 2mm;
+  text-align: left;
+}
+
+.header{
+  background:#969696;
+  border-bottom:#777777 3px solid;
+  padding:5px;
+  text-alighn: center;
+}
+.containerright{
+  width:200px;
+  margin:30px;
+  background:#969696;
+  border:#777777 3px solid;
+  padding:10px;
+  float: right;
+}
+
+.containerleft{
+  width:420px;
+  margin:30px;
+  background:#969696;
+  border:#777777 3px solid;
+  padding:10px;
+  float: left;
 }
